@@ -2,7 +2,7 @@
 #include <LiquidCrystal_I2C.h>
 
 // ==========================================
-// ADIÇÃO 1: CONFIGURAÇÃO DO DISPLAY LCD
+// ADIÇÃO 1: CONFIGURAÇÃO DO DISPLAY LCD(ic2)
 // ==========================================
 // Foi adicionado um display LCD I2C para mostrar
 // as informações de umidade e o estado da planta.
